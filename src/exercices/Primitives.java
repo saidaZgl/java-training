@@ -23,4 +23,7 @@ public class Primitives {
     }
 
     // TODO 5 : Create a method 'nothing', no result expected
+    public static void nothing() {
+        
+    }
 }
